@@ -1,0 +1,127 @@
+
+@media only screen and (min-width: 768px) and (max-width: 1365px) {
+    ul#primary-menu {
+        display: none;
+    }
+    div#hero {
+background-position: 56% -9%;
+	}
+}
+
+
+
+@media only screen and (min-width: 1366px) {
+	
+p {
+	font-size: 16px;
+	font-weight: 100;
+	line-height: 20px;
+	letter-spacing: 0px;
+}
+
+h1{
+	font-size: 56px;
+	font-weight: 500;
+	line-height: 68px;
+	letter-spacing: 0.87px;
+}
+
+h2 {
+
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 48px;
+	letter-spacing: 0px;
+}
+
+h3 {
+
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	letter-spacing: 0px;
+}
+
+h4 {
+
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	letter-spacing: 1px;
+}
+
+h5 {
+
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 30px;
+	letter-spacing: 2px;
+}
+
+h6 {
+
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20px;
+	letter-spacing: 0.5px;
+}
+
+
+.process-box-desc h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.status-number {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+
+div#secondary-menu-bar {
+    max-width: 1366px;
+}
+
+.bigger-frame-footer {
+    max-width: 1366px;
+}
+.column.one-fourth.footer-second {
+    padding-left: 48px;
+}
+
+.footer-third {
+    padding-left: 20px;
+}
+
+.footer-fourth {
+    padding-left: 15px;
+}
+
+
+a.action-button {
+    font-weight: 400;
+    line-height: 1 !important;
+}
+
+
+.main-nav-menu {
+	max-width: 1366px;
+    display: flex;
+    align-items: center;
+    height: 80px;
+	padding: 0 32px;
+}
+.custom-logo-link {
+    display: inline-block;
+    max-width: 400px;
+}
+div#page {
+    max-width: 1366px !important;
+    width: 100%!important;
+    margin: 0 auto !important;
+    box-shadow: 0px 10px 60px 0px rgb(186 186 186 / 27%) !important;
+    -webkit-box-shadow: 0px 10px 60px 0px rgb(186 186 186 / 27%) !important;
+}
+
+
+}

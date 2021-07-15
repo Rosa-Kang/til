@@ -1,0 +1,85 @@
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) { 
+	
+	.carousel-box {
+    width: 600px;
+    margin: 0 auto;
+	padding: 0 30px;
+}
+
+	
+	.service-box img {
+		height: 189px !important;
+	}	
+
+a.custom-logo-link img {
+		width: 281px !important;		
+	}
+h1, .h1-style{ font-size: 30px !important; line-height:40px !important; font-weight:400 !important; letter-spacing: 1.0px !important;}
+#Subheader .title, h2, p.h2-style{font-size: 25px; line-height:30px; font-weight:400; letter-spacing: 1.2px;}
+h3{font-size: 20px !important; line-height:20px !important; font-weight:600 !important; letter-spacing: 0px!important}
+h4{font-size: 15px !important; line-height:18px !important; font-weight:400 !important; letter-spacing: 1.0px !important;}
+h5, .h5-style{font-size: 17px !important; line-height:30px !important; font-weight:600 !important; letter-spacing: 0px!important}
+p{font-size: 15px; line-height:25px; font-weight:400; letter-spacing: 0px;}
+li{font-size: 13px; line-height:17px; font-weight:400; letter-spacing: 0px;}
+	
+.columns-12.center-aligned-column.tablet-12 {
+    flex-wrap: wrap;
+}
+
+.columns-4.margin-one-gutter.flex-space-between.tablet-full {
+    width: 100%;
+    max-width: 100% !important;
+}
+
+.dr-logos img {
+    width: 25% !important;
+}
+
+	.columns-4 {
+		max-width: 284px !important;
+	}
+	
+	.inner-section {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+	
+	
+a.button .button_label, .link-btn{
+    font-size: 14px !important;
+    font-weight: 600;
+    line-height:15px;
+    letter-spacing:0px;
+}
+
+	
+nav#site-navigation {
+		    width: 60%;
+}
+	
+	
+	div#blog-wrap .columns-4 {
+    padding: 10px;
+}
+	div#testimonials {
+    display: flex;
+    flex-direction: column;
+}
+
+	
+	div#past-work {
+    display: flex;
+    flex-direction: column;
+}
+	
+	.left-margin-1 {
+    margin-left: 62px;
+}
+
+    div#hero {
+background-position: 56% -9%;
+	}
+
+
+}
